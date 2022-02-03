@@ -236,7 +236,7 @@ async function registerWorkspace(root: vscode.WorkspaceFolder) {
         if (result === abort) {
           return;
         } else if (result === initialize) {
-          await runCommand(npm_binary, ["install", `${root.uri.fsPath}/${directory}`, "--production=false"], [], `${root.uri.fsPath}/${directory}`);
+          await runCommand(npm_binary, ["install", "--production=false"], [], `${root.uri.fsPath}/${directory}`);
         }
       }
 
