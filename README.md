@@ -1,7 +1,7 @@
 # Dynamic Workspace Extension
 
 [![Licence](https://img.shields.io/github/license/betwo/vscode-dynamic-workspace-extension.svg)](https://github.com/betwo/vscode-dynamic-workspace-extension)
-[![VS Code Marketplace](https://vsmarketplacebadge.apphb.com/version-short/betwo.vscode-dynamic-workspace-extension.svg) ![Rating](https://vsmarketplacebadge.apphb.com/rating-short/betwo.vscode-dynamic-workspace-extension.svg) ![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/betwo.vscode-dynamic-workspace-extension.svg) ![Installs](https://vsmarketplacebadge.apphb.com/installs-short/betwo.vscode-dynamic-workspace-extension.svg)](https://marketplace.visualstudio.com/items?itemName=betwo.vscode-dynamic-workspace-extension)
+[![VS Code Marketplace](https://vsmarketplacebadges.dev/version-short/betwo.vscode-dynamic-workspace-extension.svg) ![Rating](https://vsmarketplacebadges.dev/rating-short/betwo.vscode-dynamic-workspace-extension.svg) ![Downloads](https://vsmarketplacebadges.dev/downloads-short/betwo.vscode-dynamic-workspace-extension.svg) ![Installs](https://vsmarketplacebadges.dev/installs-short/betwo.vscode-dynamic-workspace-extension.svg)](https://marketplace.visualstudio.com/items?itemName=betwo.vscode-dynamic-workspace-extension)
 
 This extension allows users to develop workspace specific vscode integration without creating a fully new extension.
 
